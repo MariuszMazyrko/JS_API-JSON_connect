@@ -1,11 +1,9 @@
-# JS_API-JSON_connect
-JS: connect with API 
+# wtf-gulp-starter
 
+`npm install -g gulp-cli`
 
-## What we used in this project:
-* GitHub Dev
-* REST API
-* POSTMAN
-* Javascript
+`npm install`
 
-[API connect](#)
+`gulp`
+
+To publish your page using github pages use `npm run deploy`
